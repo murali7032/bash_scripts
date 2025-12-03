@@ -243,6 +243,7 @@ backup fails
 restore check fails
 
 📁 Directory Structure
+
 /backup/
    ├── daily/
    ├── weekly/
